@@ -10,3 +10,21 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.left, .right {
+	padding-top:15px;
+	padding-bottom: 15px;
+}
+.left {
+	float: left;
+	margin-right: 15px;
+}
+
+.right {
+	float: right;
+	margin-left: 15px;
+}
+
+.image-floatedcd {
+	width: 300px;
+}
